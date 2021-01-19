@@ -1,8 +1,6 @@
 #pragma once
 
 /**
- * CONFIDENTIAL
- *
  *  2003 IUGO Mobile Entertainment Inc
  *  All Rights Reserved.
  *
